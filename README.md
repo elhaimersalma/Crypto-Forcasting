@@ -14,9 +14,6 @@ Cryptocurrencies have become a prominent asset class, and predicting their trend
 - **Trend Analysis:**
   - Provides insights into short-term and long-term trends of various cryptocurrencies.
 
-- **User-Friendly Interface:**
-  - Designed to be accessible for both seasoned investors and crypto enthusiasts.
-
 ## How to Use
 
 Feel free to explore the repository to find source code, documentation, and any additional resources related to the Crypto Forecasting Project. Follow the instructions in the documentation to set up and run the forecasting model.
